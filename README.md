@@ -4,11 +4,6 @@ Logo
 
 Logo assets for Compute.io.
 
----
-## License
-
-[MIT license](http://opensource.org/licenses/MIT).
-
 
 ## Copyright
 
